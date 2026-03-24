@@ -4,7 +4,7 @@
 Kr328/ClashForAndroid/releases  最后备份文件，文件未进行任何修改，可以进行md5比对。
 
 ## Clash for Android官网导航
-- [v2.5.12 releases 下载](https://github.com/clashbk/clash_for_android/releases/tag/2.5.12) 
+- [Clash for Android v2.5.12 releases 下载](https://github.com/clashbk/clash_for_android/releases/tag/2.5.12) 
 - [Clash for Android 使用教程](https://github.com/clashbk/clash/wiki/clash-for-android)
 
 机场推荐：
